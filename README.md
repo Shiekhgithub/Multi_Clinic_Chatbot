@@ -29,11 +29,13 @@ healthcare_rag/
 ## 🚀 Quick Start
 
 ### 1. Clone / copy files
+```bash
 git clone https://github.com/javaidgithub/healthcare-rag-chatbot.git
 cd healthcare-rag-chatbot
 python -m venv venv
 venv\Scripts\activate   # (Windows)
 pip install -r requirements.txt
+```
 
 OR
 Place all project files in a folder, e.g. `healthcare_rag/`.
